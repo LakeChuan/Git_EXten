@@ -1,2 +1,2 @@
 # Git_EXten
-this is atest repository
+this is a test repository
